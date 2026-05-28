@@ -107,3 +107,4 @@ Unexpected token 'pip' in expression or statement.
     + FullyQualifiedErrorId : UnexpectedToken
  
 PS C:\Users\kishore.m\OneDrive - Infocepts Technologies Pvt. Ltd\Documents\AI solution building\VS code> 
+& "C:\Users\kishore.m\AppData\Local\Programs\Python\Python314\python.exe" -m pip install streamlit
